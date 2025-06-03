@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Fri May 16 11:41:20 2025 as: /usr/lib/nmap/nmap --privileged -T4 -sV --top-ports 1000 -oN pt-quick-scan.txt 10.0.3.15
+Nmap scan report for 10.0.3.15
+Host is up (0.0000020s latency).
+All 1000 scanned ports on 10.0.3.15 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri May 16 11:41:20 2025 -- 1 IP address (1 host up) scanned in 0.35 seconds

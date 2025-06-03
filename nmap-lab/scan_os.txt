@@ -1,0 +1,17 @@
+# Nmap 7.95 scan initiated Mon May 19 18:45:27 2025 as: /usr/lib/nmap/nmap -O -oN scan_os.txt 10.0.3.3
+Nmap scan report for 10.0.3.3
+Host is up (0.0022s latency).
+Not shown: 999 filtered tcp ports (net-unreach)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 52:55:0A:00:03:03 (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: VoIP adapter|general purpose|bridge|printer
+Running (JUST GUESSING): AT&T embedded (97%), QEMU (96%), Oracle Virtualbox (96%), Slirp (96%), Samsung embedded (89%), Dell embedded (88%), Wind River VxWorks (88%), Xerox embedded (88%)
+OS CPE: cpe:/a:qemu:qemu cpe:/o:oracle:virtualbox cpe:/a:danny_gasparovski:slirp cpe:/h:samsung:clp-315w cpe:/h:dell:1815dn cpe:/o:windriver:vxworks cpe:/h:xerox:workcentre_4150
+Aggressive OS guesses: AT&T BGW210 voice gateway (97%), QEMU user mode network gateway (96%), Oracle Virtualbox Slirp NAT bridge (96%), Samsung CLP-315W printer (89%), Dell 1815dn printer (88%), VxWorks (88%), Xerox WorkCentre 4150 printer (88%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon May 19 18:45:31 2025 -- 1 IP address (1 host up) scanned in 4.27 seconds

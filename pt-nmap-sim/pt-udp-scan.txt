@@ -1,0 +1,7 @@
+# Nmap 7.95 scan initiated Fri May 16 11:46:08 2025 as: /usr/lib/nmap/nmap -sU --top-ports 100 -oN pt-udp-scan.txt 10.0.3.15
+Nmap scan report for 10.0.3.15
+Host is up (0.0000020s latency).
+All 100 scanned ports on 10.0.3.15 are in ignored states.
+Not shown: 100 closed udp ports (port-unreach)
+
+# Nmap done at Fri May 16 11:46:08 2025 -- 1 IP address (1 host up) scanned in 0.20 seconds
